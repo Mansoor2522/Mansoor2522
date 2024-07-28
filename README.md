@@ -1,18 +1,18 @@
-
-<h1 align="center">Hi 👋, I'm Mansoor Ahmed</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-- 📫 How to reach me **mansoorahmedm1795@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/mans.mansoor.92?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mans.mansoor.92?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram/_mansoornabeeha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram/_mansoornabeeha_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mansoor-ahmed-m-0a8538271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansoor-ahmed-m-0a8538271" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+👋 Hi, I’m Mansoor Ahmed
+- I'm a passionate Full Stack Developer with experience in building web applications using technologies like HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js. I have completed an internship as a Jr. Software Developer and worked on various projects that honed my skills in both frontend and backend development.
+- I'm a passionate Full Stack Developer with experience in building web applications using technologies like HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js. I have completed an internship as a Jr. Software Developer.
+- 👀 I’m interested in Developing scalable web applications  Exploring new technologies in the MERN stack
+- 💞️ I’m looking to collaborate on innovative web development projects.
+- I am currently looking for job opportunities in Full Stack Development. If you know of any openings or think I would be a good fit for your team, please feel free to reach out to me via email or LinkedIn. I am eager to bring my skills and passion for development to a new and exciting role.
+- 📫 How to reach me [linkedIn] https://www.linkedin.com/in/mansoor-ahmed-m-0a8538271/|[Email] mansoorahmedm1795@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am funny.
+- ## 🚀 Skills
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- ## 📈 GitHub Stats
+![Mansoor Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansoor2522&show_icons=true&theme=radical)
+<!---
+Mansoor Ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
