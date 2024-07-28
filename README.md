@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/mans.mansoor.92?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mans.mansoor.92?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram/_mansoornabeeha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram/_mansoornabeeha_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mansoor-ahmed-m-0a8538271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansoor-ahmed-m-0a8538271" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
